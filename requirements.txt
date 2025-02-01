@@ -1,2 +1,9 @@
 jax
 pygame
+torch 
+numpy 
+matplotlib 
+scipy
+jaxlib 
+flax
+optax
